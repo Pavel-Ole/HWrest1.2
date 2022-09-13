@@ -14,7 +14,7 @@
     ],
     "properties": {
       "id": {
-        "type": "nteger"
+        "type": "integer"
       },
       "name": {
         "type": "string",
